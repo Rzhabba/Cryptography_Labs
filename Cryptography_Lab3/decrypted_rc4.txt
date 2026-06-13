@@ -1,0 +1,2 @@
+Hello, World! This is a test message for Vernam cipher.
+Vernam cipher is absolutely secure if the key is truly random and used only once.
